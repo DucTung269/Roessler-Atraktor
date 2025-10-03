@@ -20,3 +20,6 @@ Der Rössler-Attraktor stellt ein klassisches Beispiel für ein **chaotisches dy
 ---
 
 ## Results Overview
+
+
+![Rössler Attraktor Animation](roessler_attraktor.gif)
