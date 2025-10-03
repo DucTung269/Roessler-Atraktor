@@ -26,19 +26,22 @@ Der Rössler-Attraktor stellt ein klassisches Beispiel für ein **chaotisches dy
 - **Animation**: Die Dynamik des Rössler-Attraktors wird in der folgenden Abbildung als Animation dargestellt.  
 ![Rössler Attraktor Animation](roessler_attraktor.gif)
 
-- **Änderung der Roessler Atraktor**
--- Startwerten vom (1.0, 1.0, 1.0) und varieren der Wert c zwischen 2 und 7:
-  
-  - Für c = 2
-  - 
-![c = 2](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%202.jpg?raw=true)
+## Variation des Rössler-Attraktors  
 
-  - Für c = 7
+- **Startwerte**: (1.0, 1.0, 1.0) mit Variation des Parameters *c* zwischen 2 und 7:  
 
-![c = 7](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%207.jpg?raw=true)
+  - Für *c = 2*  
+    ![c = 2](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%202.jpg?raw=true)  
 
- - Für c = 3.3
-![c = 3.3](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%203.3.jpg?raw=true)
+  - Für *c = 7*  
+    ![c = 7](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%207.jpg?raw=true)  
 
- - Für c = 6.6
-![c = 6.6](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%206.3.jpg?raw=true)
+---
+
+- **Startwerte**: (1.01, 1.0, 1.0) mit Variation des Parameters *c*:  
+
+  - Für *c = 3.3*  
+    ![c = 3.3](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%203.3.jpg?raw=true)  
+
+  - Für *c = 6.6*  
+    ![c = 6.6](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%206.6.jpg?raw=true)  
