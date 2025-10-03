@@ -44,4 +44,4 @@ Der Rössler-Attraktor stellt ein klassisches Beispiel für ein **chaotisches dy
     ![c = 3.3](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%203.3.jpg?raw=true)  
 
   - Für *c = 6.6*  
-    ![c = 6.6](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%206.6.jpg?raw=true)  
+    ![c = 6.6](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%206.3.jpg?raw=true)  
