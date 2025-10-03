@@ -28,7 +28,9 @@ Der Rössler-Attraktor stellt ein klassisches Beispiel für ein **chaotisches dy
 
 - **Änderung der Roessler Atraktor**
 -- Startwerten vom (1.0, 1.0, 1.0) und varieren der Wert c zwischen 2 und 7:
+  
   - Für c = 2
+  - 
 ![c = 2](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%202.jpg?raw=true)
 
   - Für c = 7
