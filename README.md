@@ -44,4 +44,10 @@ Der Rössler-Attraktor stellt ein klassisches Beispiel für ein **chaotisches dy
     ![c = 3.3](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%203.3.jpg?raw=true)  
 
   - Für *c = 6.6*  
-    ![c = 6.6](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%206.3.jpg?raw=true)  
+    ![c = 6.6](https://github.com/DucTung269/Roessler-Atraktor/blob/main/image/c%20=%206.3.jpg?raw=true)
+
+## Fazit  
+
+Der **Rössler-Attraktor** ist ein typischer *seltsamer Attraktor* mit starker Abhängigkeit von den Anfangsbedingungen. Für seine numerische Lösung wurden das **Runge-Kutta-Verfahren 4. Ordnung** und das **Runge-Kutta-Verfahren 8. Ordnung** eingesetzt, wobei auch andere Verfahren wie das **Euler-Verfahren** möglich wären. Die Simulationen zeigen, dass bereits kleine Änderungen der Anfangswerte oder Parameter zu deutlichen Abweichungen im Verhalten der Trajektorien führen. Besonders stabil tritt die charakteristische **Rössler-Form** bei den Parametern *(a = 0.2, b = 0.2, c = 5.7)* auf, während Abweichungen davon eine andere Dynamik erzeugen.  
+
+
