@@ -23,4 +23,5 @@ Der Rössler-Attraktor stellt ein klassisches Beispiel für ein **chaotisches dy
 
 - **Code**: Der Python-Code zur Implementierung des Rössler-Attraktors, einschließlich der numerischen Lösung mit dem Runge-Kutta-Verfahren sowie der Animation, befindet sich im Jupyter Notebook *Roessler Atraktor.ipynb* in [meinem Repository](https://github.com/DucTung269/Roessler-Atraktor).  
 
+- **Animation**: Die Dynamik des Rössler-Attraktors wird in der folgenden Abbildung als Animation dargestellt.  
 ![Rössler Attraktor Animation](roessler_attraktor.gif)
